@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699911747185",
+    "project_id": "authentication-86caf",
+    "storage_bucket": "authentication-86caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699911747185:android:0dc56d3216d0819a854dd0",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699911747185-juc6prefqaagcdifkn3919kj1p9fblqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtS3io4qvaB1dNPCHmto3dVS6lQkOeQrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699911747185-juc6prefqaagcdifkn3919kj1p9fblqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
